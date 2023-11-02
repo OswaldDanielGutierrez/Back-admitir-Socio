@@ -1,7 +1,7 @@
 package com.udea.admitirsocio.service;
 
-import com.udea.admitirsocio.models.InfoBancaria;
-import com.udea.admitirsocio.repository.InfoBancariaRepositorio;
+import com.udea.admitirsocio.jpa.models.InfoBancaria;
+import com.udea.admitirsocio.jpa.repository.InfoBancariaRepositorio;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,4 +1,4 @@
-package com.udea.admitirsocio.models;
+package com.udea.admitirsocio.jpa.models;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

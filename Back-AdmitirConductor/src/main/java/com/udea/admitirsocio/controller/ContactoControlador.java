@@ -1,6 +1,6 @@
 package com.udea.admitirsocio.controller;
 
-import com.udea.admitirsocio.models.Contacto;
+import com.udea.admitirsocio.jpa.models.Contacto;
 import com.udea.admitirsocio.service.IContactoServicio;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

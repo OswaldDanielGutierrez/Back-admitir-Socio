@@ -1,6 +1,6 @@
-package com.udea.admitirsocio.repository;
+package com.udea.admitirsocio.jpa.repository;
 
-import com.udea.admitirsocio.models.Documentos;
+import com.udea.admitirsocio.jpa.models.Documentos;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

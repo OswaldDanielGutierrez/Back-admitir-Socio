@@ -1,6 +1,6 @@
 package com.udea.admitirsocio.service;
 
-import com.udea.admitirsocio.models.InfoBancaria;
+import com.udea.admitirsocio.jpa.models.InfoBancaria;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;

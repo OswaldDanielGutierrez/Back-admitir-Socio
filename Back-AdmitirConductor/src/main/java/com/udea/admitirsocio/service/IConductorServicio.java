@@ -1,6 +1,6 @@
 package com.udea.admitirsocio.service;
 
-import com.udea.admitirsocio.models.Conductor;
+import com.udea.admitirsocio.jpa.models.Conductor;
 
 import java.util.List;
 

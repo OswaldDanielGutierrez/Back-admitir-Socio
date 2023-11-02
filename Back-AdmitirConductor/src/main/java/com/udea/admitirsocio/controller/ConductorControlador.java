@@ -1,6 +1,6 @@
 package com.udea.admitirsocio.controller;
 
-import com.udea.admitirsocio.models.Conductor;
+import com.udea.admitirsocio.jpa.models.Conductor;
 import com.udea.admitirsocio.service.IConductorServicio;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

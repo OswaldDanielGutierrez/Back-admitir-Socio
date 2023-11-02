@@ -1,4 +1,4 @@
-package com.udea.admitirsocio.models;
+package com.udea.admitirsocio.jpa.models;
 
 import java.util.Date;
 

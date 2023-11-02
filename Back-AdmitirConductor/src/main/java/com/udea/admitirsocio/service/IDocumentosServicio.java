@@ -1,6 +1,6 @@
 package com.udea.admitirsocio.service;
 
-import com.udea.admitirsocio.models.Documentos;
+import com.udea.admitirsocio.jpa.models.Documentos;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;

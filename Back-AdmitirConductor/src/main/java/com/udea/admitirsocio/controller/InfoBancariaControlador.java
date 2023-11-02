@@ -1,6 +1,6 @@
 package com.udea.admitirsocio.controller;
 
-import com.udea.admitirsocio.models.InfoBancaria;
+import com.udea.admitirsocio.jpa.models.InfoBancaria;
 import com.udea.admitirsocio.service.IInfoBancariaServicio;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

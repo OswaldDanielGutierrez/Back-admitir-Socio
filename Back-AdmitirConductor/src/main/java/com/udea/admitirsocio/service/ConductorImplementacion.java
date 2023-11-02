@@ -1,7 +1,7 @@
 package com.udea.admitirsocio.service;
 
-import com.udea.admitirsocio.models.Conductor;
-import com.udea.admitirsocio.repository.ConductorRepositorio;
+import com.udea.admitirsocio.jpa.models.Conductor;
+import com.udea.admitirsocio.jpa.repository.ConductorRepositorio;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

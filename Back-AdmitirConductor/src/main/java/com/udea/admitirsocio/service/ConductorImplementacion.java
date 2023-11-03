@@ -31,10 +31,6 @@ public class ConductorImplementacion implements IConductorServicio{
     public Conductor getConductor(Long id){
         return conductorRepositorio.findById(id).orElse(null);
     }
-    @Override
-    @Transactional
-    public void deleteConductor(Long id){
-        conductorRepositorio.deleteById(id);
-    }
+
 
 }

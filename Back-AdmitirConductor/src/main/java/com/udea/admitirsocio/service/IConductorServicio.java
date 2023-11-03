@@ -11,5 +11,4 @@ public interface IConductorServicio {
 
     Conductor getConductor(Long id);
 
-    void deleteConductor(Long id);
 }
